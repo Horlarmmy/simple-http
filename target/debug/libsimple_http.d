@@ -1,0 +1,1 @@
+/workspace/rusthttp/simple-http/target/debug/libsimple_http.rlib: /workspace/rusthttp/simple-http/src/http/mod.rs /workspace/rusthttp/simple-http/src/http/request.rs /workspace/rusthttp/simple-http/src/http/response.rs /workspace/rusthttp/simple-http/src/lib.rs
